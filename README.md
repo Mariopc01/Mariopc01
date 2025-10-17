@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Mariopc01/Mariopc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--    -->
+## Olá! Eu sou Mario 👋  
+Estudante de Ciência de Dados apaixonado por transformar dados em decisões inteligentes. / Data Science student passionate about transforming data into smart decisions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 Atualmente sou estudante de Ciência de Dados. / I am currently a Data Science student.
+- 👯 Estou procurando colaborar em Ciência de Dados ou Dados em geral. /  I'm looking to collaborate in Data Science or Data in general
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ...  -->
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ...-->
+
+
+<!--    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariopc01)](https://github.com/anuraghazra/github-readme-stats)  -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariopc01&show_icons=true&theme=merko)
